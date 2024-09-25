@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\bin\Debug\net8.0\loja-de-produtos-eletronicos.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\bin\Debug\net8.0\loja-de-produtos-eletronicos.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\bin\Debug\net8.0\loja-de-produtos-eletronicos.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\bin\Debug\net8.0\loja-de-produtos-eletronicos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\bin\Debug\net8.0\loja-de-produtos-eletronicos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.sourcelink.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\refint\loja-de-produtos-eletronicos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\loja-de-produtos-eletronicos.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projetos-Pessoais\CSharp\Projetos\loja-de-produtos-eletronicos\loja-de-produtos-eletronicos\obj\Debug\net8.0\ref\loja-de-produtos-eletronicos.dll
